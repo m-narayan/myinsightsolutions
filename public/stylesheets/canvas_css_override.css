@@ -1,0 +1,91 @@
+#header {
+border-bottom: 1px solid #0088cc;
+position: relative;
+z-index: 11;
+background: #CDD6DE;
+}
+body.modal #modal-box.login-box {
+background-color: #393939;
+background: none;
+height: 386px;
+width: 623px;
+padding: 20px;
+color: #b3b3b3;
+border: none;
+}
+body.modal #modal-box.login-box h1, body.modal #modal-box.login-box .h1 {
+height: 208px;
+margin: 0 0 50px;
+background-color: transparent;
+background-image: url("/images/insight-webLogo.png");
+background-repeat: no-repeat;
+background-position: 100px 46px;
+text-indent: -999em;
+}
+#header-logo, #header.no-user #header-logo {
+background: url("/images/insight_solutions.png") no-repeat;
+background-size: 103% 49px;
+width: 191px;
+height: 50pX;
+left: 16px;
+top: 14pX;
+bottom: 5px;
+position: absolute;
+text-indent: -9999px;
+}
+#f1_container {
+    position: relative;
+    margin: 0 auto;
+    padding: 110px 0;
+    width: 300px;
+    height: 250px;
+    z-index: 1;
+    background-image: url(/images/insight_solutions.png);
+    background-position: center 30px;
+    background-repeat: no-repeat;
+    background-size: 270px 48px;
+}
+.menu-item .menu-item-title, .menu-item .menu-item-no-drop{
+text-shadow: 0px 0px 0px transparent;
+color: #000;
+font-size: 16px;
+border: 1px solid transparent;
+border-bottom: 0 none;
+display: block;
+padding: 6px 17px 5px;
+text-decoration: none;
+position: relative;
+z-index: 100;
+height: 29px;
+font-size: 15px;
+}
+#menu {
+list-style: none;
+margin-left: 200px;
+}
+#identity li a{ color:#000000;}
+#identity {
+margin: 0;
+padding: 0;
+list-style: none;
+float: right;
+font-size: 12px;
+margin-right: 13px;
+margin-bottom: 4px;
+padding: 0 11px;
+background: #CDD6DE;
+box-shadow: rgba(0,0,0,0.3) 1px 1px 1px;
+border-bottom-left-radius: 6px;
+border-bottom-right-radius: 5px;
+border: 1px solid rgba(0,0,0,0.3);
+border-top: 0;
+}
+html {
+margin: 0;
+padding: 0;
+background: none;
+min-height: 420px;
+font-size: 114%;
+font-family: Helvetica;
+}
+
