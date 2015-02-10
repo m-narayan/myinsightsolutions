@@ -17,13 +17,13 @@ body.modal #modal-box.login-box h1, body.modal #modal-box.login-box .h1 {
 height: 208px;
 margin: 0 0 50px;
 background-color: transparent;
-background-image: url("/images/insight-webLogo.png");
+background-image: url("https://raw.githubusercontent.com/m-narayan/myinsightsolutions/master/public/images/insight-webLogo.png");
 background-repeat: no-repeat;
 background-position: 100px 46px;
 text-indent: -999em;
 }
 #header-logo, #header.no-user #header-logo {
-background: url("/images/insight_solutions.png") no-repeat;
+background: url("https://raw.githubusercontent.com/m-narayan/myinsightsolutions/master/public/images/insight_solutions.png") no-repeat;
 background-size: 103% 49px;
 width: 191px;
 height: 50pX;
@@ -40,7 +40,7 @@ text-indent: -9999px;
     width: 300px;
     height: 250px;
     z-index: 1;
-    background-image: url(/images/insight_solutions.png);
+    background-image: url("https://raw.githubusercontent.com/m-narayan/myinsightsolutions/master/public/images/insight_solutions.png");
     background-position: center 30px;
     background-repeat: no-repeat;
     background-size: 270px 48px;
