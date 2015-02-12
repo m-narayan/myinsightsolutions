@@ -1,3 +1,7 @@
+#header.no-user {
+background-position: 0 -25px;
+min-height: 65px;
+}
 #header {
 border-bottom: 1px solid #0088cc;
 position: relative;
